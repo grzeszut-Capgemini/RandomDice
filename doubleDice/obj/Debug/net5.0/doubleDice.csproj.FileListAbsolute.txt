@@ -1,0 +1,16 @@
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.exe
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.deps.json
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.runtimeconfig.json
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.runtimeconfig.dev.json
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.dll
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\ref\doubleDice.dll
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\bin\Debug\net5.0\doubleDice.pdb
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.csprojAssemblyReference.cache
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.AssemblyInfoInputs.cache
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.AssemblyInfo.cs
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.csproj.CoreCompileInputs.cache
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.dll
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\ref\doubleDice.dll
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.pdb
+C:\Users\papaJAMES\source\repos\doubleDice\doubleDice\obj\Debug\net5.0\doubleDice.genruntimeconfig.cache
