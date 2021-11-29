@@ -23,7 +23,7 @@ namespace doubleDice
 				counter++;
 			}
 			while (dice1 + dice2 != 12);
-			Console.WriteLine($"First dice = second dice, after {counter} attempts");
+			Console.WriteLine($"First dice and  second dice = 6, after {counter} attempts");
 		}
 
 	}
